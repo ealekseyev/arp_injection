@@ -1,0 +1,7 @@
+/opt/ealekseyev/CLion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/admin/Documents/Code/arp_injection
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.21 or higher is required.  You are running version 3.19.2
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/admin/Documents/Code/arp_injection/cmake-build-release/CMakeFiles/CMakeOutput.log".
